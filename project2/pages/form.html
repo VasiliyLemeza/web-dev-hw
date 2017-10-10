@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<body>
+<style>
+h1{ text-align: center;color: Brown;}
+</style>
+<h1><b>Lets Talk About Cookies<b></h1>
+<form>
+  <fieldset>
+ <legend>Your Info:</legend>
+ Name: <input type="text" autofocus ;><br><br>
+ Email: <input type="text"><br><br>
+</fieldset>
+</form>
+</br>
+
+<form action="/action_page.php">
+  Username: <input type="text" name="usrname" required placeholder="JonSmith1956">
+
+</form>
+
+<h3> Chose your favorite cookie</h3>
+<form action="/action_page.php"method="get">
+  <select name="Cookies">
+    <option value="CC">Pick One</option>
+    <option value="P">Plain</option>
+    <option value="R">Raisin</option>
+    <option value="P">Peanut</option>
+    <option value="CC">Chocolate Chip</option>
+  </select>
+  <br><br>
+</form>
+</br>
+
+<h3> What do you like to drink with your Cookies?</h3>
+
+<form action="/action_page.php">
+  <label for="Milk">Milk</label>
+  <input type="radio" name="liquid" id="Milk" value="Milk"><br>
+  <label for="Juice">Juice</label>
+  <input type="radio" name="liquid" id="Juice" value="Juice"><br>
+  <label for="Coffee">Coffee</label>
+  <input type="radio" name="liquid" id="liquid" value="liquid"><br>
+  <label for="Tea">Tea</label>
+  <input type="radio" name="liquid" id="Tea" value="Tea"><br>
+  <label for="Something Else">Something Else</label>
+  <input type="radio" name="liquid" id="Else" value="Else"><br><br>
+
+  <input type="submit" value="Submit">
+</form>
+
+</br>
+</br>
+<ul>
+  <li><a href="./instructions.html">Back to Instructions</a></li>
+  <li><a href="../index.html">Back to Home</a></li>
+</ul>
+</body>
+</html>
