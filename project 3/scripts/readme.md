@@ -8,10 +8,8 @@ first chapter book I really remember reading and even though I don't read
 much I wouldn't mind reading it again. </p>
 
 <p> My material gathered about the author will be cited from scholastic.com</p>
-
-
+<img src=
 <p> My color pallete </p>
-<img src="../images/palet.png">
 <div style="width50px;height:50px;border:none;background-color: black"></div>
 <div style="width50px;height:50px;border:none;background-color: lightgray"></div>
 <div style="width50px;height:50px;border:none;background-color: gold"></div>
