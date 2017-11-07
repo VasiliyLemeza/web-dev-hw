@@ -1,0 +1,73 @@
+.header {
+    background-color: plum;
+    text-align: center;
+    padding: 50px;
+    color: gold;
+    font-style: oblique;
+    font-size: 20px;
+  }
+
+
+.image{
+  padding-top:5%;
+  float:right;
+  padding-right:20%;
+
+}
+.body {
+    background-color: orange;
+    height:650px;
+
+}
+.ch19{
+  
+  color:#a17f1a;
+  padding-top:2%;
+  text-indent:10px;
+  padding-left:30%;
+  padding-right:30%;
+  font-size:20px;
+  font-style: comic;
+}
+.paragraph2{
+
+  padding-top:1%;
+  padding-left:10%;
+  padding-right:10%;
+  color:#a17f1a;
+  font-size:20px;
+}
+.paragraph3{
+  text-align:center;
+  color:#a17f1a;
+  font-size:20px;
+  padding-top:20%;
+  font-style:italic;
+}
+.contact{
+  text-align:center;
+  padding-top:5%;
+}
+.contact1{
+  color:black;
+  text-align:center;
+  padding-top:10%;
+}
+
+.footer {
+      background-color: plum;
+      text-align:center;
+      padding:1px;
+      font-size: 30px;
+}
+.navigation{
+  padding-top:2%;
+}
+a:link, a:visited {
+    color: gold;
+    text-decoration: none;
+}
+
+a:hover, a:active {
+    color:black;
+}
